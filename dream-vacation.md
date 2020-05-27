@@ -1,7 +1,7 @@
-#Dream Vacation
+# Dream Vacation
 
-##New Zealand
+## New Zealand
 I want to go camping, surfing and climbing!
 
-##Antartica
+## Antartica
 I would love to go visit and see what it's like!
